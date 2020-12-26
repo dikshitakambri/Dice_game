@@ -1,0 +1,23 @@
+body {
+    background-color: #456268;
+    
+}
+.container {
+    padding-left: 17%;
+}
+h1 {
+    font-size: 100px;
+    text-align: center;
+    padding: 7% 15%;
+    font-family: "Patua One";
+    font-weight: bold;
+} 
+img {
+    padding-right: 110px;
+    padding-top: 40px;
+    width: 50%;
+}
+.button {
+    padding: 5%;
+    padding-left: 23%;
+}
