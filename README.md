@@ -15,4 +15,4 @@
     <li>Bootstrap(Frontend library)</li>
 </ul>
 
-<img src="Images/game.png" height="50%">
+<img src="Images/game.png" width="50%">
