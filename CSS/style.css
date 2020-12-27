@@ -1,6 +1,9 @@
 body {
-    background-color: #456268;
-    
+    background-image: url('../Images/bg5.jfif');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: "Langar";
+    text-shadow: 2px 2px #ff0000;
 }
 .container {
     padding-left: 17%;
@@ -8,16 +11,35 @@ body {
 h1 {
     font-size: 100px;
     text-align: center;
-    padding: 7% 15%;
-    font-family: "Patua One";
+    padding: 2% 15%;
+    color: #fff;
     font-weight: bold;
+    text-shadow: #456268;
+}
+h3 {
+    font-size: 70px;
+    text-align: center;
+    padding: 2% 15%;
+    font-weight: bold;
+    text-shadow: #456268;
+    color: #fff;
+    text-shadow: 1px 1px #ff0000;
 } 
+h2 {
+    color: #fff;
+    text-shadow: 0.5px 0.5px #ff0000;
+}
 img {
     padding-right: 110px;
     padding-top: 40px;
     width: 50%;
 }
 .button {
-    padding: 5%;
-    padding-left: 23%;
+    padding: 9%;
+    padding-left: 27%;
+    transition-duration: 0.4s;
+    font-weight: bold;
 }
+.button:hover {
+    color: white;
+  }
