@@ -15,4 +15,4 @@
     <li>Bootstrap(Frontend library)</li>
 </ul>
 
-![alt text](Images/game.png)
+<img src="Images/game.png" height="50%">
