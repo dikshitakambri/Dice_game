@@ -16,3 +16,8 @@
 </ul>
 
 <img src="Images/game.png" width="50%">
+
+<br>
+
+
+[![Github All Releases](https://img.shields.io/github/downloads/dikshitakambri/Dice_game/total.svg)]()
